@@ -1,2 +1,2 @@
-# Appsolid2
+# Appsolid
 Princípios Solid
